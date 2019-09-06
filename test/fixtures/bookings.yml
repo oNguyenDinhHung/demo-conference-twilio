@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account: one
+  expert: one
+  start: 2019-09-06 05:50:19
+  minutes: 1
+  conference_sid: MyString
+
+two:
+  account: two
+  expert: two
+  start: 2019-09-06 05:50:19
+  minutes: 1
+  conference_sid: MyString
